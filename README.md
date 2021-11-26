@@ -1,4 +1,4 @@
-## Como autogerar documentaçao para sua Api via postamn
+## Como autogerar documentaçao para sua Api via postam
 
 You can use the [editor on GitHub](https://github.com/Galaraz/Postman_documentacao/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
